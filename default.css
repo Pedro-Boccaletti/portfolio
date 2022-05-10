@@ -16,7 +16,7 @@ body {
     padding-top: 20px;
 }
 
-.main-body {
+body main {
     position: relative;
     left: 20%;
     padding-left: 20px;
