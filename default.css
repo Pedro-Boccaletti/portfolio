@@ -22,6 +22,21 @@ body main {
     padding-left: 20px;
 }
 
-.descricao {
-    background-color: aqua;
+
+.my-image{
+    margin: 12px;
 }
+
+body main .descricao {
+    padding: 20px;
+    position: relative;
+    min-width: 100px;
+    width: 50%;
+    background-color: rgb(126, 126, 126);
+    height: fit-content;
+}
+
+.side-by-side {
+    display: flex;
+}
+
